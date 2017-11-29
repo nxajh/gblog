@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gblog.homingsys.com/2017/11/28/hello-world/</loc>
+    
+    <lastmod>2017-11-29T15:18:59.552Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://gblog.homingsys.com/about/index.html</loc>
     
     <lastmod>2017-11-29T13:49:30.733Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://gblog.homingsys.com/tags/index.html</loc>
     
     <lastmod>2017-11-29T13:47:12.061Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://gblog.homingsys.com/2017/11/28/hello-world/</loc>
-    
-    <lastmod>2017-11-28T15:47:03.108Z</lastmod>
     
   </url>
   
